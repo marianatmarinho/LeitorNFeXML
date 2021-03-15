@@ -1,0 +1,17 @@
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.Properties.Resources.resources
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.FrmNFe.resources
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.csproj.GenerateResource.Cache
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\bin\Debug\EntradaNF.exe
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\bin\Debug\EntradaNF.pdb
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.exe
+C:\Users\Mariana\documents\visual studio 2010\Projects\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.pdb
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\bin\Debug\EntradaNF.exe
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\bin\Debug\EntradaNF.pdb
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.csprojAssemblyReference.cache
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.Properties.Resources.resources
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.FrmNFe.resources
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.csproj.GenerateResource.cache
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.csproj.CoreCompileInputs.cache
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.exe
+C:\Users\mariana\Desktop\Projetos Mariana\EntradaNF\EntradaNF\obj\x86\Debug\EntradaNF.pdb
